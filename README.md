@@ -1,2 +1,2 @@
-# Machine_Learning_ZTM_SL
-This are my notes from ZTM ML Bootcamp (Supervised Learning).
+El juEGO scripts.
+This are my scripts from a simple Unity videogame I made for my friends, as an inside joke.
